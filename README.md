@@ -20,9 +20,9 @@
 
 We are currently developing 3 associated products:
 
-- 🗺️ [**chile-coverage**](https://github.com/mapbiomas-chile/chile-coverage): focused on Land Use and Land Cover mapping, currently in its **third version**.
-- 🔥 [**chile-fire**](https://github.com/mapbiomas-chile/chile-fire): focused on fire identification, currently in its **first version**.
-- 💧 [**chile-water**](https://github.com/mapbiomas-chile/chile-water): focused on water body identification, currently in its **first version**.
+- 🗺️ [**chile-coverage**](https://github.com/mapbiomas/chile-coverage): focused on Land Use and Land Cover mapping, currently in its **third version**.
+- 🔥 [**chile-fire**](https://github.com/mapbiomas/chile-fire): focused on fire identification, currently in its **first version**.
+- 💧 [**chile-water**](https://github.com/mapbiomas/chile-water): focused on water body identification, currently in its **first version**.
 
 ## 🤝 Contact
 
